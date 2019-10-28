@@ -89,7 +89,7 @@ p {
         margin-top: 0;
     }
     #graphic {
-        display: inline-flex;
+        display: flex;
     }
     .circle {
         display: flex;
